@@ -1,0 +1,15 @@
+{
+  "name": "screen-masking",
+  "version": "0.0.1",
+  "description": "Controlling a stepper motor used for screen masking via http protocol.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bert Kößler <bert@heimkino-praxis.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.0",
+    "python-shell": "^1.0.7"
+  }
+}
