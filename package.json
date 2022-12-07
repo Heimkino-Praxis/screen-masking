@@ -9,7 +9,7 @@
   "author": "Bert Kößler <bert@heimkino-praxis.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.0",
+    "express": "^4.18.2",
     "python-shell": "^1.0.7"
   }
 }
